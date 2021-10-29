@@ -9,7 +9,7 @@ var filesToCache = [
   'schrijfhuisje.html',
   'libraries/createjs.js>
 ',
-  'libraries/zim.js>
+  'libraries/zim_min.js>
 ',
   'libraries/pizzazz_01.js>',
   'libraries/pizzazz_02.js>',
