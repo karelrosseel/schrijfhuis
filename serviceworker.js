@@ -5,16 +5,16 @@
 
 var cacheName = 'zim_pwa_schrijfhuisje';
 var filesToCache = [
-  './',
+  'https://raw.githubusercontent.com/karelrosseel/schrijfhuis/master/',
   'schrijfhuisje.html',
-  'libraries/script/>
+  'libraries/createjs.js>
 ',
-  'libraries/script>
+  'libraries/zim.js>
 ',
-  'libraries/script>',
-  'libraries/script>',
-  'libraries/script>',
-  'libraries/script>'
+  'libraries/pizzazz_01.js>',
+  'libraries/pizzazz_02.js>',
+  'libraries/game_2.5.js>',
+  'libraries/pizzazz_03.js>'
 ];
 
 /* Start the service worker and cache all of the app's content */
