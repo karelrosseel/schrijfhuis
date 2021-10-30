@@ -5,7 +5,7 @@
 
 var cacheName = 'zim_pwa_schrijfhuisje';
 var filesToCache = [
-  'https://raw.githubusercontent.com/karelrosseel/schrijfhuis/master/',
+  './',
   'schrijfhuisje.html',
   'libraries/createjs.js>
 ',
